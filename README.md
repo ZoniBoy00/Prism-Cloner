@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/discord.js-v13-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-%3E%3D16.11-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/version-2.0.0-00d4ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/version-1.0.0-00d4ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
 </p>
 
