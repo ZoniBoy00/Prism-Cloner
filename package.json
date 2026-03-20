@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZoniBoy00/prism-cloner.git"
+    "url": "https://github.com/ZoniBoy00/Prism-Cloner.git"
   },
   "engines": {
     "node": ">=16.11.0"
