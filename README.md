@@ -187,8 +187,8 @@ prism-cloner/
 
 ```bash
 # Clone the repository
-git clone https://github.com/ZoniBoy00/prism-cloner.git
-cd prism-cloner
+git clone https://github.com/ZoniBoy00/Prism-Cloner.git
+cd Prism-Cloner
 
 # Install dependencies
 npm install
